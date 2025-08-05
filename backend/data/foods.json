@@ -1,0 +1,70 @@
+{
+  "foods": [
+    {
+      "id": "f37dcbf1-a8e1-47fd-ac5c-15a32ed8afc1",
+      "name": "Paneer Butter Masala",
+      "description": "Rich and creamy paneer curry with butter and spices",
+      "price": 280,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=400",
+      "category": "veg",
+      "restaurant": "Punjabi Dhaba",
+      "rating": 4.5,
+      "preparationTime": "25 mins"
+    },
+    {
+      "id": "f0da1819-7c1b-491f-a7e3-6d7c537f19c9",
+      "name": "Chicken Biryani",
+      "description": "Aromatic basmati rice with tender chicken pieces",
+      "price": 350,
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d51a?w=400",
+      "category": "non-veg",
+      "restaurant": "Biryani House",
+      "rating": 4.7,
+      "preparationTime": "35 mins"
+    },
+    {
+      "id": "a702d1ab-bd3f-44b2-ac41-2e6c7ef4632d",
+      "name": "Margherita Pizza",
+      "description": "Classic pizza with fresh mozzarella and basil",
+      "price": 320,
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=400",
+      "category": "veg",
+      "restaurant": "Pizza Corner",
+      "rating": 4.3,
+      "preparationTime": "20 mins"
+    },
+    {
+      "id": "5eea5291-337b-4124-a60f-be83d7c847df",
+      "name": "Fish Curry",
+      "description": "Spicy and tangy fish curry with coconut milk",
+      "price": 380,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400",
+      "category": "non-veg",
+      "restaurant": "Coastal Kitchen",
+      "rating": 4.6,
+      "preparationTime": "30 mins"
+    },
+    {
+      "id": "117354f0-b346-4c5c-8ac4-4fbcd09cf1ac",
+      "name": "Dal Tadka",
+      "description": "Yellow lentils tempered with cumin and spices",
+      "price": 180,
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=400",
+      "category": "veg",
+      "restaurant": "Home Kitchen",
+      "rating": 4.2,
+      "preparationTime": "15 mins"
+    },
+    {
+      "id": "93e07896-ed7d-49f3-996b-70fa8d9c20d7",
+      "name": "Mutton Rogan Josh",
+      "description": "Tender mutton cooked in aromatic Kashmiri spices",
+      "price": 450,
+      "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400",
+      "category": "non-veg",
+      "restaurant": "Kashmir Kitchen",
+      "rating": 4.8,
+      "preparationTime": "45 mins"
+    }
+  ]
+}
